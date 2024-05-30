@@ -9,6 +9,7 @@ An xml drawable was used to make the background shape of the BottonNavigation, a
 
 Extension functions were also added to facilitate development. Review the "UTILS" class.
 
+NOTE: THE EFFECT LOOKS A LITTLE SLOW BECAUSE THE VIDEO WAS RECORDED IN AN EMULATOR, BUT ON REAL DEVICES THERE IS NO PROBLEM.
 
 
 ## Screenshots
