@@ -259,7 +259,7 @@ fun FabGroup(
                     .transform(0.35f, 0.65f, animationProgress)
             ),
             onClick = toggleAnimation,
-            backgroundColor = MaterialTheme.colorScheme.surfaceContainerLow
+            backgroundColor = Color.Transparent
         )
     }
 }
